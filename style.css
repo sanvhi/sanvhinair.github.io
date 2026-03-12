@@ -1,8 +1,8 @@
 body{
-  font-family: Arial;
+  font-family: Bricolage Grotesque;
   margin:0;
-  background:#0f172a;
-  color:white;
+  background:#A0DBCE;
+  color: lightblue;
 }
 
 header{
@@ -15,8 +15,9 @@ section{
 }
 
 .project{
-  background:#1e293b;
+  background:#36665C;
   padding:20px;
   margin:20px 0;
   border-radius:10px;
+
 }
